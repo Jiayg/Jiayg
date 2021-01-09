@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiayg&show_icons=true&theme=radical)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiayg&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jiayg&show_icons=true&theme=radical)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiayg&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jiayg/Jiayg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
